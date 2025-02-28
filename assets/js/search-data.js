@@ -20,7 +20,7 @@ ninja.data = [{
       
         title: "The meaning of Push-forward and Pull-back",
       
-      description: "",
+      description: "math",
       section: "Posts",
       handler: () => {
         
